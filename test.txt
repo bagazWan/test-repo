@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 coba-coba first commit gan!!!
+=======
+coba-coba first commit yg terganti gan
+>>>>>>> feature
 
 commit kedua
